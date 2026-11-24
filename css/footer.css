@@ -1,0 +1,20 @@
+.footer {
+  padding: 100px 0;
+  background-color: #2e2f42;
+}
+.footer-wrapper {
+  display: flex;
+}
+.footer-left {
+  margin-right: 120px;
+}
+.footer-logo {
+  display: block;
+  margin-bottom: 16px;
+  color: #f4f4fd;
+}
+
+.footer-desc {
+  max-width: 264px;
+  color: #f4f4fd;
+}
